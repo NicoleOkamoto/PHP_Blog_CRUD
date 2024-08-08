@@ -1,7 +1,6 @@
 Blog Application
 This is a simple blog application written in PHP that allows users to create, read, update, and delete blog posts. The application is designed to be a basic content management system where users can manage their posts easily through a web interface.
 
-Placeholder for your blog application screenshot.
 ![Blog_mockup](./PHP_blog_mockup.png)
 
 Features
